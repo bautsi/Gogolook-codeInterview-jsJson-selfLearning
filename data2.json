@@ -1,0 +1,5 @@
+[
+  { "status": "completed", "label": "申請成功", "time": "2/21" },
+  { "status": "pending", "label": "序號生產中", "time": "" },
+  { "status": "pending", "label": "已寄發", "time": "" }
+]
